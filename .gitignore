@@ -1,4 +1,5 @@
 env/
 computer_vis_course/.ipynb_checkpoints/
+computer_vis_course/samples/.ipynb_checkpoints/
 .DS_Store
 __pycache__/
